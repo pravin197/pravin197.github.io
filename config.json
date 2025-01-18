@@ -6,12 +6,12 @@
   "sort": "pushed",
   "order": "desc",
   "includeFork": false,
-  "theme": "dark.css",
+  "theme": "light.css",
   "types": [
    "owner"
   ],
   "twitter": null,
-  "linkedin": null,
+  "linkedin": "praveen-karnati",
   "medium": null,
   "dribbble": null
  }
