@@ -3,12 +3,16 @@
   "username": "pravin197",
   "name": "Praveen Karnati",
   "userimg": "https://avatars.githubusercontent.com/u/18102617?v=4",
-  "sort": "created",
-  "order": "asc",
+  "sort": "pushed",
+  "order": "desc",
   "includeFork": false,
-  "theme": "light.css",
+  "theme": "dark.css",
   "types": [
-   "all"
-  ]
+   "owner"
+  ],
+  "twitter": null,
+  "linkedin": null,
+  "medium": null,
+  "dribbble": null
  }
 ]
